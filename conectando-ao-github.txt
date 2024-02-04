@@ -1,0 +1,2 @@
+push envia para o github
+pull baixa os arquivos
